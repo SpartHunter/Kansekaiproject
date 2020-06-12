@@ -1,0 +1,180 @@
+/* landing */
+.landing_view{
+    position: relative;
+    padding: 220px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing_content_view{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* height: 420px; */
+    width: 100%;
+    background: #fff;
+    box-shadow: 400px 0 0 rgba(0,0,0,0.5);
+}
+
+.landing_content_view img{
+    position: absolute;
+    width: 300px;
+    top: -119px;
+    left: calc((100vw / 2) - 10rem);
+    z-index: 30;
+}
+
+.landing_content_top_bg_view{
+    height: 170px;
+    background-color: #ff7e0c65;
+    background-image: url("../../../images/bg2.svg");
+    background-position: bottom;
+    background-size: cover;
+}
+
+.landing_text_view{
+    padding: 0 20px;
+    flex: 1 1 auto;
+}
+
+
+.landing_view .btn a:hover{
+    box-shadow: 2px 2px 4px #000;
+    transform: scale(1);
+}
+
+/* Card anime poster section */
+
+.anime_content_view{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.anime_card_view{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 190px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px 0;
+    align-self: center;
+}
+
+.card_title_view{
+    font-size: medium;
+}
+
+.card_star_view{
+    margin: 10px 0;
+}
+
+.card_star_view span svg{
+    fill: gray
+}
+
+.card_poster_view img{
+    width: 140px;
+    height: 190px;
+    border-radius: 5px;
+}
+
+.anime_card_view .btn{
+    padding: 15px;
+}
+
+.anime_card_view .btn button{
+    height: 40px;
+    padding: 0 10px;
+    border: none;
+    background-color: #f38824;
+    color: #fff;
+    border-radius: 20px;
+    transform: scale(1);
+    transition: all 0.3s linear;
+}
+
+.anime_card_view .btn button:hover{
+    box-shadow: 2px 2px 4px #000;
+    transform: scale(0.8);
+}
+
+.card_container_view{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.synopsis_title_view{
+    font-size: 5vw;
+    padding: 20px 0 20px 0;
+}
+
+.video_trailer_view{
+    padding: 10px;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video_trailer_view iframe{
+    margin:10px 0 50px 0;
+    width: 100%;
+    height: 500px;
+    border: none;
+    border-radius: 20px;
+}
+
+.video_trailer_view a{
+    padding: 20px;
+    margin: 0 0 20px 0;
+    background-color: #f38824;
+    color: #fff;
+    border-radius: 20px;
+    transform: scale(1);
+    transition: all 0.3s linear;
+}
+
+@media only screen and (min-width: 600px){
+    .synopsis_title_view {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (min-width: 800px){
+    .card_container_view{
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .info_card_view{
+        width: 65%;
+    }
+
+    .synopsis_title_view {
+        padding: 0 0 10px 0;
+    }
+
+    .text_synopsis_view{
+        height: 230px;
+        overflow: auto;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+    .landing_view{
+        padding: 300px 0 40px 0;
+    }
+
+    .video_trailer_view iframe{
+        height: 750px;
+    }
+}

@@ -1,0 +1,234 @@
+/* Initialise Height of Wrapper Container */
+.wrapper{
+    height: 100vh;
+}
+
+/* Login Section */
+.login{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 130px 20px 80px 20px;
+    flex: 1 1 auto;
+}
+
+.formulaire{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 650px;
+    border-radius: 10px;
+    margin-top: 15px;
+    box-shadow: 0 15px 49px black;
+    width: 100%;
+    align-items: center;
+}
+
+.formulaire_content{
+    width: 95%;
+}
+
+.formulaire form{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulaire .formulaire_forms{
+    height: 100%;
+}
+
+.formulaire_forms div{
+    border-radius: 20px;
+}
+
+.formulaire img{
+    position: absolute;
+    top: 160px;
+    /* left: calc((100vw / 20.5) + 1rem); */
+    width: 150px;
+    z-index: 30;
+}
+
+.form_create_left_bg{
+    height: 220px;
+    width: 100%;
+    background-color: #ff7e0c65;
+    background-image: url("../../images/login1.svg");
+    background-position: bottom;
+    background-size: cover;
+}
+
+.formulaire_forms .form_inputs{
+    background-color: #fff;
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form_inputs article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form_inputs h3{
+    padding: 15px 0;
+}
+
+.form_inputs article section{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.form_inputs article section input{
+    width: 45%;
+}
+
+.form_inputs article input{
+    margin: 20px 5px 5px 5px;
+    height: 45px;
+    width: 70%;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+.form_inputs input::placeholder{
+    text-align: center;
+}
+
+.form_inputs article input[type="email"]{
+    width: 100%;
+    height: 45px;
+}
+
+.form_inputs .btn input[type=submit]{
+    padding: 5px;
+    width: 165px;
+    background-color: #f38824;
+    border: #fff;
+    color: #fff;
+    transform: scale(1.2);
+    transition: all .4s ease;
+}
+
+.form_inputs .btn input[type=submit]:hover{
+    transform: scale(1);
+    box-shadow: 2px 2px 4px #000;
+}
+
+.formulaire_bottom{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 0;
+    padding: 15px 15px;
+    text-align: center;
+}
+
+.formulaire_bottom span{
+    padding: 10px 5px;
+}
+
+@media only screen and (min-width: 500px){
+    .form_create_left_bg{
+        width: 375px;
+    }
+
+    .form_inputs article input{
+        width: 270px;
+    }
+
+    .form_inputs article input[type="email"]{
+        width: 370px;
+    }
+}
+
+@media only screen and (min-width: 700px){
+    .form_inputs article section{
+        width: 609px;
+    }
+
+    .form_inputs article section input{
+        width: 260px;
+    }
+}
+
+@media only screen and (min-width: 1000px){
+    .formulaire{
+        width: 100%;
+        box-shadow: none;
+        height: 700px;
+    }
+
+    .formulaire_forms{
+        padding: 15px 15px;
+    }
+
+    .formulaire form{
+        justify-content: space-between;
+    }
+
+    .form_create_left_bg{
+        height: 560px;
+    }
+
+    .formulaire .formulaire_content{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+    }
+
+    .formulaire_forms .form_inputs{
+        height: 100%;
+    }
+
+    article.formulaire_bg_left{
+        width: 60%;
+    }
+
+    article.formulaire_bg_right{
+        width: 100%;
+    }
+
+    .formulaire div article{
+        height: 100%;
+    }
+
+    .formulaire_bg_right{
+        border-radius: 10px;
+        background-image: url("../../images/create.svg");
+        background-size: contain;
+        background-repeat: repeat-x;
+        background-position: center;
+
+    }
+
+    .formulaire_bg_left{
+        box-shadow: 0 15px 49px black;
+        border-radius: 10px;
+    }
+}
+
+@media only screen and (min-width: 1600px){
+    .form_inputs article:first-child{
+        width: 90%;
+    }
+}

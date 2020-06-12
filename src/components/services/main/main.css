@@ -1,0 +1,116 @@
+/* landing */
+.landing{
+    position: relative;
+    padding: 220px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.landing_content{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    /* height: 420px; */
+    width: 100%;
+    background: #fff;
+    box-shadow: 400px 0 0 rgba(0,0,0,0.5);
+}
+
+.landing_content img{
+    position: absolute;
+    width: 300px;
+    top: -119px;
+    left: calc((100vw / 2) - 10rem);
+    z-index: 30;
+}
+
+.landing_content_top_bg{
+    height: 170px;
+    background-color: #ff7e0c65;
+    background-image: url("../../../images/bg2.svg");
+    background-position: bottom;
+    background-size: cover;
+}
+
+.landing_text{
+    padding: 0 20px;
+    flex: 1 1 auto;
+}
+
+
+.landing .btn a:hover{
+    box-shadow: 2px 2px 4px #000;
+    transform: scale(1);
+}
+
+/* Card anime poster section */
+
+.anime_content{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+
+.anime_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 25px;
+    justify-self: center;
+}
+
+.card_title{
+    font-size: medium;
+}
+
+.card_star{
+    margin: 10px 0;
+}
+
+/*.card_star span svg{
+    fill: gray
+}*/
+
+.card_poster img{
+    width: 289px;
+    height: 409px;
+    border-radius: 5px;
+}
+
+.anime_card .btn{
+    padding: 15px;
+}
+
+.anime_card .btn button{
+    height: 40px;
+    padding: 0 10px;
+    border: none;
+    background-color: #f38824;
+    color: #fff;
+    border-radius: 20px;
+    transform: scale(1);
+    transition: all 0.3s linear;
+}
+
+.anime_card .btn button:hover{
+    box-shadow: 2px 2px 4px #000;
+    transform: scale(0.8);
+}
+
+@media only scren and (min-width: 700px){
+}
+
+@media only screen and (min-width: 1000px){
+    .landing{
+        padding: 300px 0 40px 0;
+    }
+}

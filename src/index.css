@@ -1,0 +1,136 @@
+/* Adding/import new font */
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url("./fonts/Montserrat-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-ExtraLight";
+    src: url("./fonts/Montserrat-ExtraLight.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Light";
+    src: url("./fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url("./fonts/Montserrat-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Alternate-Regular";
+    src: url("./fonts/MontserratAlternates-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Alternate-Regular-Italic";
+    src: url("./fonts/MontserratAlternates-Italic.ttf");
+}
+
+@font-face {
+    font-family: "Montserrat-Alternate-Black-Italic";
+    src: url("./fonts/MontserratAlternates-BlackItalic.ttf");
+}
+
+*:active, *:hover, *:focus{
+    outline: none;
+    outline-color:white;
+    outline-width: 0;
+}
+
+*::-moz-focus-inner{
+    outline: none;
+    outline-color:white;
+    outline-width: 0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+html, body{
+    background-color: #fff;
+    font-family: "Montserrat-Regular", sans-serif;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+a, button{
+    cursor: pointer;
+    color: inherit;
+    font-family: "Montserrat-Bold", sans-serif;
+}
+
+h1{
+    font-family: "Montserrat-Bold", sans-serif;
+}
+
+p{
+    font-family: "Montserrat-Regular", sans-serif;
+}
+
+hr{
+    width: 80%;
+    margin: 30px auto;
+}
+
+input, textarea{
+    font-family: "Montserrat-Regular", sans-serif;
+}
+
+/*Global class css */
+
+.title{
+    text-align: center;
+    font-size: 5.5vw;
+    margin: 24px 0;
+}
+
+.page_title{
+    text-align: center;
+    margin: 15px 0;
+}
+
+/* Animation css */
+@keyframes color_flip{
+    0%{
+        transform: rotateX(0deg);
+        color: #f38824;
+    }
+    20%{
+        color:#000;
+    }
+    40%{
+        color:rgb(241, 218, 168);
+    }
+    60%{
+        color:#f79a44;
+    }
+    80%{
+        color:#f79c48;
+    }
+    100%{
+        color:#f38824;
+    }
+}
+
+@media only screen and (min-width: 800px){
+    .title{
+        font-size: 35px;
+    }
+}

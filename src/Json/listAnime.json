@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Attack on Titan",
+    "star": 5,
+    "image": "https://i.ibb.co/qjf5QgB/1.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/M_OauHnAFc8",
+    "new": false
+  },
+  {
+    "id": 2,
+    "name": "Demon Slayer",
+    "star": 5,
+    "image": "https://i.ibb.co/TvYf9Zm/2.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/Zyq5JjnFOUw",
+    "new": false
+  },
+  {
+    "id": 3,
+    "name": "Sword Art Online",
+    "star": 4,
+    "image": "https://i.ibb.co/Xpg8bQR/3.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/W30qLNNbosM",
+    "new": false
+  },
+  {
+    "id": 4,
+    "name": "Overlord",
+    "star": 4,
+    "image": "https://i.ibb.co/7GP1sHN/4.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/vci9YwpFFcA",
+    "new": false
+  },
+  {
+    "id": 5,
+    "name": "Black Clover",
+    "star": 4,
+    "image": "https://i.ibb.co/qRyTJ5L/5.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/yxPhb2kCNMk",
+    "new": true
+  },
+  {
+    "id": 6,
+    "name": "Avenger Infinity",
+    "star": 3,
+    "image": "https://i.ibb.co/B6Ngw6N/6.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/TMiknz0fCSI",
+    "new": true
+  },
+  {
+    "id": 7,
+    "name": "Hunter X Hunter",
+    "star": 5,
+    "image": "https://i.ibb.co/2vTzbBm/7.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/BAYc99piR6g",
+    "new": true
+  },
+  {
+    "id": 8,
+    "name": "Bofuri",
+    "star": 3,
+    "image": "https://i.ibb.co/5FMhpPQ/8.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/dqDlYfKRqqk",
+    "new": true
+  },
+  {
+    "id": 9,
+    "name": "Haikyuu",
+    "star": 2,
+    "image": "https://i.ibb.co/bJfq26D/9.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/2---3Iysnqg",
+    "new": false
+  },
+  {
+    "id": 10,
+    "name": "One Punch Man",
+    "star": 4,
+    "image": "https://i.ibb.co/28vtcRS/11.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/A3Jks90zaEE",
+    "new": false
+  },
+  {
+    "id": 11,
+    "name": "Dororo",
+    "star": 3,
+    "image": "https://i.ibb.co/c2r32CZ/12.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/DLat_-OyHIs",
+    "new": false
+  },
+  {
+    "id": 12,
+    "name": "Dr. Stone",
+    "star": 5,
+    "image": "https://i.ibb.co/ngCQwVz/13.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/9NxtW57oyKg",
+    "new": false
+  },
+  {
+    "id": 13,
+    "name": "Seven deadly Sins",
+    "star": 3,
+    "image": "https://i.ibb.co/gJT7n9C/14.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/Ynd3L---Pjo",
+    "new": true
+  },
+  {
+    "id": 14,
+    "name": "Assassination Classroom",
+    "star": 2,
+    "image": "https://i.ibb.co/GCMc2kn/15.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/Nb3UEPNQX_0",
+    "new": true
+  },
+  {
+    "id": 15,
+    "name": "Bleach",
+    "star": 3,
+    "image": "https://i.ibb.co/LNKdsQn/10.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/RIYtyDK61-c",
+    "new": true
+  },
+  {
+    "id": 16,
+    "name": "Boruto",
+    "star": 5,
+    "image": "https://i.ibb.co/5n2cZGb/16.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/Qyonn5Vbg7s",
+    "new": true
+  },
+  {
+    "id": 17,
+    "name": "Fairy Tail",
+    "star": 3,
+    "image": "https://i.ibb.co/dtNkvbL/17.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/4KSN7mxhiYE",
+    "new": false
+  },
+  {
+    "id": 18,
+    "name": "Kingdom",
+    "star": 4,
+    "image": "https://i.ibb.co/mRXwgYX/18.png",
+    "synopsis": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non enim aliquet, ornare turpis a, posuere odio. Pellentesque pharetra enim tincidunt urna sagittis laoreet. Pellentesque semper, leo in faucibus blandit, neque libero tempor massa, in semper enim lacus a dolor. Sed vitae nibh in sem porttitor vestibulum. Pellentesque sit amet turpis non dolor cursus varius. Phasellus sollicitudin nibh et est efficitur, accumsan laoreet metus mollis. Cras finibus justo id tortor maximus, auctor feugiat ante auctor.\n\nCurabitur sit amet luctus augue, et ultricies sapien. Aliquam vehicula neque id tellus sagittis, in egestas metus facilisis. Praesent sed rutrum lorem, in euismod tortor. Etiam feugiat erat ut ex hendrerit, et porta ligula tristique. Curabitur id ante in felis luctus posuere vitae eu nisl. In hac habitasse platea dictumst. Aliquam et erat sit amet lorem dapibus venenatis a in ligula. Maecenas ligula libero, vehicula in eros ac, maximus tempor lorem. In vitae enim euismod, ullamcorper dui a, volutpat mauris. Fusce non congue eros.",
+    "video": "https://www.youtube.com/embed/I3LnhDt5tas",
+    "new": true
+  }
+]
